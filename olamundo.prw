@@ -4,7 +4,7 @@
 /*/{Protheus.doc} nomeFunction
     (long_description)
     @type  Function
-    @author user
+    @cesteves
     @since date
     @version version
     @param param, param_type, param_descr
