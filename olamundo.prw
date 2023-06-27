@@ -17,6 +17,6 @@ user Function olamundo() //nome da função
 
 MsgInfo("Olá Mundo, Eu sou Protheuzeiro!")
 
-MsgInfo("Olá Mundo", "Cássio DEV")
+MsgInfo("Olá Mundo", "cestves")
 
 Return // fim da função
